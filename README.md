@@ -1,4 +1,4 @@
-# passwd-crypto
+# passwordcrypto
 
 This Python module provides a simple password manager for securely storing and retrieving encrypted password entries. The passwords are encrypted using the Fernet symmetric encryption scheme. The module includes functionality to derive a Fernet key from a password, initialize a password manager instance, retrieve encrypted passwords, decrypt and read stored passwords, encrypt text, and write new password entries to a file.
 
@@ -7,7 +7,7 @@ This Python module provides a simple password manager for securely storing and r
 ### Initialization
 
 ```python
-from passwd-crypto import Passwd, generate_key_from_password
+from passwordcrypto import Passwd, generate_key_from_password
 
 # Example usage
 password = b'MyStrongPassword'
