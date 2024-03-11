@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: passwordcrypto
+Version: 1.0.dev1
+Home-page: 
+Author: 
+Author-email: 
+Maintainer: 
+Maintainer-email: 
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python
+Requires-Dist: cryptography
+
+passwordcrypto

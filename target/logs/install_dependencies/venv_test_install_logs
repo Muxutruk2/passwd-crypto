@@ -1,0 +1,14 @@
+Collecting cryptography
+  Using cached cryptography-42.0.5-cp39-abi3-win_amd64.whl.metadata (5.4 kB)
+Collecting cffi>=1.12 (from cryptography)
+  Using cached cffi-1.16.0-cp310-cp310-win_amd64.whl.metadata (1.5 kB)
+Collecting pycparser (from cffi>=1.12->cryptography)
+  Using cached pycparser-2.21-py2.py3-none-any.whl.metadata (1.1 kB)
+Using cached cryptography-42.0.5-cp39-abi3-win_amd64.whl (2.9 MB)
+Using cached cffi-1.16.0-cp310-cp310-win_amd64.whl (181 kB)
+Using cached pycparser-2.21-py2.py3-none-any.whl (118 kB)
+Installing collected packages: pycparser, cffi, cryptography
+Successfully installed cffi-1.16.0 cryptography-42.0.5 pycparser-2.21
+
+[notice] A new release of pip is available: 23.3.1 -> 24.0
+[notice] To update, run: python.exe -m pip install --upgrade pip

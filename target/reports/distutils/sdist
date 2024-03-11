@@ -1,0 +1,37 @@
+WARNING: '.' not a valid package name; please use only .-separated package names in setup.py
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.10' does not exist -- can't clean it
+running sdist
+running egg_info
+creating passwordcrypto.egg-info
+writing passwordcrypto.egg-info\PKG-INFO
+writing dependency_links to passwordcrypto.egg-info\dependency_links.txt
+writing namespace_packages to passwordcrypto.egg-info\namespace_packages.txt
+writing requirements to passwordcrypto.egg-info\requires.txt
+writing top-level names to passwordcrypto.egg-info\top_level.txt
+writing manifest file 'passwordcrypto.egg-info\SOURCES.txt'
+reading manifest file 'passwordcrypto.egg-info\SOURCES.txt'
+writing manifest file 'passwordcrypto.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating passwordcrypto-1.0.dev1
+creating passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+copying files to passwordcrypto-1.0.dev1...
+copying __init__.py -> passwordcrypto-1.0.dev1
+copying passwordcrypto.py -> passwordcrypto-1.0.dev1
+copying setup.py -> passwordcrypto-1.0.dev1
+copying passwordcrypto.egg-info\PKG-INFO -> passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+copying passwordcrypto.egg-info\SOURCES.txt -> passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+copying passwordcrypto.egg-info\dependency_links.txt -> passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+copying passwordcrypto.egg-info\namespace_packages.txt -> passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+copying passwordcrypto.egg-info\requires.txt -> passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+copying passwordcrypto.egg-info\top_level.txt -> passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+copying passwordcrypto.egg-info\zip-safe -> passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+copying passwordcrypto.egg-info\SOURCES.txt -> passwordcrypto-1.0.dev1\passwordcrypto.egg-info
+Writing passwordcrypto-1.0.dev1\setup.cfg
+creating dist
+Creating tar archive
+removing 'passwordcrypto-1.0.dev1' (and everything under it)
