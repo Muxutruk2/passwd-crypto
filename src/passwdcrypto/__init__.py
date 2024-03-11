@@ -1,1 +1,1 @@
-from passwdCrypto import *
+from passwdcrypto.passwordcrypto import *
